@@ -10,6 +10,6 @@ public class CambiarEscena : MonoBehaviour
     }
     public void salir() {
         Application.Quit();
-        print("Saliendo");
+        print("Saliendo del Recorrido");
     }
 }
