@@ -45,7 +45,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abab0d998c3365144be77cb9779a2a28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  IdiomaActual: "Espa\xF1ol"
+  "toggleEspa\xF1ol": {fileID: 0}
+  toggleIngles: {fileID: 0}
+  toggleQuechua: {fileID: 0}
+  EsEscenaMenu: 1
 --- !u!114 &1247793142567230215
 MonoBehaviour:
   m_ObjectHideFlags: 0
