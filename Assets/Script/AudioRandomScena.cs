@@ -11,18 +11,12 @@ public class AudioRandomScena : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
             PlaySound();
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
     void PlaySound() {
-        int random = Random.Range(0,clips.Length);
+        
+        int random = Random.Range(0, clips.Length);
+        print(random);
         AudioSource sourse = gameObject.AddComponent<AudioSource>();
         sourse.clip = clips[random];
         sourse.outputAudioMixerGroup = output;

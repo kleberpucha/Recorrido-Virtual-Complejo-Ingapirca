@@ -1299,6 +1299,7 @@ GameObject:
   - component: {fileID: 2128193249}
   - component: {fileID: 2128193252}
   - component: {fileID: 2128193251}
+  - component: {fileID: 2128193254}
   - component: {fileID: 2128193250}
   - component: {fileID: 2128193253}
   m_Layer: 5
@@ -1441,3 +1442,16 @@ MonoBehaviour:
   toggleIngles: {fileID: 0}
   toggleQuechua: {fileID: 0}
   idiomaGlobal: {fileID: 0}
+--- !u!114 &2128193254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2128193248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5228ce75663ca24ba56b248f3c694a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: c6b0e65f80253c24d8068325cddd45d7, type: 3}

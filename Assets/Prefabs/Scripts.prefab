@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1247793142567230215}
   - component: {fileID: 1247793142567230216}
   - component: {fileID: 2270075703374784927}
+  - component: {fileID: -7443892763177061318}
   m_Layer: 0
   m_Name: Scripts
   m_TagString: Untagged
@@ -86,7 +87,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdb367809a583b94f9eb40ede7551c73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Sonido1: {fileID: 0}
-  Sonido2: {fileID: 0}
-  Sonido3: {fileID: 0}
-  Volumen: 1
+  clips: []
+  output: {fileID: 0}
+--- !u!114 &-7443892763177061318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1247793142567230212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5228ce75663ca24ba56b248f3c694a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
