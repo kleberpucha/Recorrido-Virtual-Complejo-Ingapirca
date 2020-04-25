@@ -1005,7 +1005,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.7921569, g: 0.6901961, b: 0.5058824, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1186,7 +1186,7 @@ MonoBehaviour:
   esBoton: 1
   "toggleEspa\xF1ol": {fileID: 1744004100}
   toggleIngles: {fileID: 298220999}
-  toggleQuechua: {fileID: 0}
+  toggleQuechua: {fileID: 1726519859}
   idiomaGlobal: {fileID: 0}
 --- !u!114 &791116657
 MonoBehaviour:
@@ -1429,7 +1429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.79215693, g: 0.6901961, b: 0.5058824, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1631,7 +1631,7 @@ MonoBehaviour:
   esBoton: 1
   "toggleEspa\xF1ol": {fileID: 1744004100}
   toggleIngles: {fileID: 298220999}
-  toggleQuechua: {fileID: 0}
+  toggleQuechua: {fileID: 1726519859}
   idiomaGlobal: {fileID: 0}
 --- !u!114 &1087469356
 MonoBehaviour:
@@ -2393,7 +2393,7 @@ MonoBehaviour:
   esBoton: 1
   "toggleEspa\xF1ol": {fileID: 1744004100}
   toggleIngles: {fileID: 298220999}
-  toggleQuechua: {fileID: 0}
+  toggleQuechua: {fileID: 1726519859}
   idiomaGlobal: {fileID: 0}
 --- !u!114 &1811444767
 MonoBehaviour:
@@ -2459,7 +2459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.6509804, g: 0.4784314, b: 0.30980393, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -2803,7 +2803,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.7921569, g: 0.6901961, b: 0.5058824, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -3071,7 +3071,7 @@ PrefabInstance:
     - target: {fileID: 3158833951748784500, guid: 3615a68846de56b46a0d98babf3d0a9f,
         type: 3}
       propertyPath: sceneToLoad
-      value: Complejo_Terreno
+      value: PUNMainConfig
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3615a68846de56b46a0d98babf3d0a9f, type: 3}
