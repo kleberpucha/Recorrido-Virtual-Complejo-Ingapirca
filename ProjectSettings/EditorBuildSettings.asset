@@ -6,11 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
     path: Assets/Scenes/Ingreso.unity
     guid: 3652fb6dcdd91f94d89e5bdc4dfc6023
   - enabled: 1
     path: Assets/Scenes/Creditos.unity
     guid: b308385c8d1f91447952b86506bc5f07
+  - enabled: 1
+    path: Assets/Scenes/PUNMainConfig.unity
+    guid: 1abeae1103a168b4d87bd75924b14ac7
   - enabled: 1
     path: Assets/Scenes/Complejo_Terreno.unity
     guid: 0fc5adb51db3e594883bf0908e9d4e00
